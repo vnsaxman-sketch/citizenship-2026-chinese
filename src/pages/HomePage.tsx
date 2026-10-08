@@ -40,6 +40,11 @@ export default function HomePage() {
           本独立学习工具不提供法律建议，也不隶属于、未获 USCIS
           认可或批准。请在 USCIS.gov 核实最新信息。
         </span>
+        <br />
+	<br />
+	<p>
+	  Developed by Long Nguyen
+	</p>
       </aside>
     </section>
   );

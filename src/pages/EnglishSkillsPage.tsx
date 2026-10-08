@@ -212,6 +212,11 @@ export default function EnglishSkillsPage() {
         <br />
         <strong className="chinese">USCIS 英语考试提示：</strong>
         <span className="chinese">请练习基本英语口语、阅读和写作。</span>
+	<br />
+	<br />
+	<p>
+	  Developed by Long Nguyen
+	</p>
       </aside>
     </section>
   );
